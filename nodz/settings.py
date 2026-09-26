@@ -172,9 +172,9 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587  # or the port your SMTP server uses
 EMAIL_USE_TLS = True  # or False if your SMTP server doesn't use TLS
-EMAIL_HOST_USER = 'rd.grondin@gmail.com'  # Your email address
+EMAIL_HOST_USER = 'rage@reg.com'  # Your email address
 EMAIL_HOST_PASSWORD = 'saxw vwml mohp ysgl'  # Your email password
-DEFAULT_FROM_EMAIL = 'rd.grondin@gmail.com'  # Default sender address contact@nodz.com
+DEFAULT_FROM_EMAIL = 'rage@reg.com'  # Default sender address contact@nodz.com
 
 # Monetization
 STRIPE_SECRET_KEY = 'your_stripe_secret_key'
